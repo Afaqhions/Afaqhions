@@ -1,1 +1,12 @@
-# Hi, I'm Eng. Horizon 👋  ![Computer Engineer](https://img.shields.io/badge/Role-Computer%20Engineer-blue) ![Cybersecurity Lead](https://img.shields.io/badge/Leadership-Cybersecurity%20Society-purple) ![Web Developer](https://img.shields.io/badge/Stack-Django%20%7C%20MERN-green) ![Data Analyst](https://img.shields.io/badge/Field-Data%20Analysis-orange) ![ML Enthusiast](https://img.shields.io/badge/Interest-Machine%20Learning-yellow) ![Hardware Innovator](https://img.shields.io/badge/Focus-Hardware%20&%20Security-red)  I’m a Computer Engineer from UET passionate about cybersecurity, full-stack development, and machine learning...
+Hi, I'm Eng. Horizon 👋
+https://img.shields.io/badge/Role-Computer%2520Engineer-blue
+https://img.shields.io/badge/Leadership-Cybersecurity%2520Society-purple
+https://img.shields.io/badge/Security-VAPT%2520%257C%2520Pentesting-red
+
+https://img.shields.io/badge/Web-Full%2520Stack-green
+https://img.shields.io/badge/Mobile-Android%2520%257C%2520iOS-blue
+https://img.shields.io/badge/Desktop-Cross%2520Platform-orange
+
+https://img.shields.io/badge/SaaS-Cloud%2520Apps-brightgreen
+https://img.shields.io/badge/AI-ML%2520Apps%2520%257C%2520Agents-yellow
+https://img.shields.io/badge/Automation-Bots%2520%257C%2520Workflows-lightgrey
